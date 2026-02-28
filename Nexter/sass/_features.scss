@@ -1,0 +1,5 @@
+@use "./base" as variables;
+
+.features {
+  grid-column: center-start / center-end;
+}

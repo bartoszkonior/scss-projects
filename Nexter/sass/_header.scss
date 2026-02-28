@@ -1,0 +1,5 @@
+@use "./base" as variables;
+
+.header {
+  grid-column: full-start / col-end 6;
+}

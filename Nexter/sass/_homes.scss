@@ -1,0 +1,5 @@
+@use "./base" as variables;
+
+.homes {
+  grid-column: center-start / center-end;
+}
