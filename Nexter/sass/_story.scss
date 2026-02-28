@@ -2,7 +2,7 @@
 
 .story {
   &__pictures {
-    grid-auto-columns: full-start / col-end 4;
+    grid-column: full-start / col-end 4;
   }
 
   &__content {
